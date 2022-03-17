@@ -9,3 +9,4 @@
 1:Braga-Leiria:A9:28
 1:Leiria-Braga:A7:28
 9:Braga-Faro:A9:37
+10:Porto-Braga:A55:15
